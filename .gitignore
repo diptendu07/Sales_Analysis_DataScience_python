@@ -1,0 +1,17 @@
+# Ignore Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore all output files inside outputs/charts and outputs/reports
+outputs/charts/*
+outputs/reports/*
+
+# But keep the directory structure
+!outputs/charts/.gitkeep
+!outputs/reports/.gitkeep
+
+# Ignore temporary or backup files
+*.pyc
+*.pyo
+*.log
+*.tmp
+*~
