@@ -95,6 +95,9 @@ pip install -r requirements.txt
 ```
 jupyter lab notebooks/AAL_Sales_Analysis.ipynb
 ```
+
+**Note: Check the plots and .txt and .csv outputs in /outputs/charts and /outputs/reports directory**
+
 ---
 
 ## 📦 Requirements
