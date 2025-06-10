@@ -136,7 +136,7 @@ jupyterlab
 ---
 
 ## Plots
-```
+
 ### Group Sales Box Plot
 ![](/images/group_sales_boxplot.png)
 
@@ -145,13 +145,12 @@ jupyterlab
 
 ### State Demographic Sales
 ![](/images/state_demographic_sales.png)
-```
+
 ---
 
 ## Screenshot
-```
+
 ![](/images/jupyter_result.png)
-```
 
 ---
 
